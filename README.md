@@ -34,7 +34,7 @@ Users must log in to access the **Home** page. If not authenticated, they will b
 
 ---
 
-## 🛠 Tech Stack
+## :hammer_and_pick: Tech Stack
 
 ### **Frontend**
 - React
@@ -54,5 +54,4 @@ Users must log in to access the **Home** page. If not authenticated, they will b
 
 ---
 
-## 📁 Folder Structure
 
