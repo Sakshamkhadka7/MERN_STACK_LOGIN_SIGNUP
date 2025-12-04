@@ -55,5 +55,6 @@ Users must log in to access the **Home** page. If not authenticated, they will b
 ## Screenshot
 
 ![Login](https://github.com/Sakshamkhadka7/MERN_STACK_LOGIN_SIGNUP/blob/d45776a1711959b7cc3079b04afe3487601d4e2a/LoginMern1%20(1).png)
+![Sign](https://github.com/Sakshamkhadka7/MERN_STACK_LOGIN_SIGNUP/blob/99a51335fc188ecdb67d8db41a3c2990db4837ca/SignUpMern.png)
 
 
