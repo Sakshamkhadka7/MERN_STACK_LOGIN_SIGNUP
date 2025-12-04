@@ -12,7 +12,7 @@ Users must log in to access the **Home** page. If not authenticated, they will b
 
 ---
 
-## 🚀 Features
+## :wheel_of_dharma: Features
 
 ### **Frontend (React)**
 - Signup page
